@@ -1,5 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-import { CadastrarComponent } from './cadastro.component';
+import { CadastrarComponent } from './cadastrar.component';
 
 
 
